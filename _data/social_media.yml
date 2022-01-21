@@ -6,161 +6,43 @@ linkedin:
   name: LinkedIn
   profile_url_prefix: https://www.linkedin.com/in/
   share_url_prefix: https://www.linkedin.com/shareArticle?mini=true&url=
-  icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" version="1.1" xml:space="preserve"><style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{fill:#F5BB41;}
-	.st2{fill:#2167D1;}
-	.st3{fill:#3D84F3;}
-	.st4{fill:#4CA853;}
-	.st5{fill:#398039;}
-	.st6{fill:#D74F3F;}
-	.st7{fill:#D43C89;}
-	.st8{fill:#B2005F;}
-	.st9{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	
-		.st10{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	
-		.st11{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#040404;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st12{fill-rule:evenodd;clip-rule:evenodd;}
-	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#040404;}
-	.st14{fill:url(#SVGID_1_);}
-	.st15{fill:url(#SVGID_2_);}
-	.st16{fill:url(#SVGID_3_);}
-	.st17{fill:url(#SVGID_4_);}
-	.st18{fill:url(#SVGID_5_);}
-	.st19{fill:url(#SVGID_6_);}
-	.st20{fill:url(#SVGID_7_);}
-	.st21{fill:url(#SVGID_8_);}
-	.st22{fill:url(#SVGID_9_);}
-	.st23{fill:url(#SVGID_10_);}
-	.st24{fill:url(#SVGID_11_);}
-	.st25{fill:url(#SVGID_12_);}
-	.st26{fill:url(#SVGID_13_);}
-	.st27{fill:url(#SVGID_14_);}
-	.st28{fill:url(#SVGID_15_);}
-	.st29{fill:url(#SVGID_16_);}
-	.st30{fill:url(#SVGID_17_);}
-	.st31{fill:url(#SVGID_18_);}
-	.st32{fill:url(#SVGID_19_);}
-	.st33{fill:url(#SVGID_20_);}
-	.st34{fill:url(#SVGID_21_);}
-	.st35{fill:url(#SVGID_22_);}
-	.st36{fill:url(#SVGID_23_);}
-	.st37{fill:url(#SVGID_24_);}
-	.st38{fill:url(#SVGID_25_);}
-	.st39{fill:url(#SVGID_26_);}
-	.st40{fill:url(#SVGID_27_);}
-	.st41{fill:url(#SVGID_28_);}
-	.st42{fill:url(#SVGID_29_);}
-	.st43{fill:url(#SVGID_30_);}
-	.st44{fill:url(#SVGID_31_);}
-	.st45{fill:url(#SVGID_32_);}
-	.st46{fill:url(#SVGID_33_);}
-	.st47{fill:url(#SVGID_34_);}
-	.st48{fill:url(#SVGID_35_);}
-	.st49{fill:url(#SVGID_36_);}
-	.st50{fill:url(#SVGID_37_);}
-	.st51{fill:url(#SVGID_38_);}
-	.st52{fill:url(#SVGID_39_);}
-	.st53{fill:url(#SVGID_40_);}
-	.st54{fill:url(#SVGID_41_);}
-	.st55{fill:url(#SVGID_42_);}
-	.st56{fill:url(#SVGID_43_);}
-	.st57{fill:url(#SVGID_44_);}
-	.st58{fill:url(#SVGID_45_);}
-	.st59{fill:#040404;}
-	.st60{fill:url(#SVGID_46_);}
-	.st61{fill:url(#SVGID_47_);}
-	.st62{fill:url(#SVGID_48_);}
-	.st63{fill:url(#SVGID_49_);}
-	.st64{fill:url(#SVGID_50_);}
-	.st65{fill:url(#SVGID_51_);}
-	.st66{fill:url(#SVGID_52_);}
-	.st67{fill:url(#SVGID_53_);}
-	.st68{fill:url(#SVGID_54_);}
-	.st69{fill:url(#SVGID_55_);}
-	.st70{fill:url(#SVGID_56_);}
-	.st71{fill:url(#SVGID_57_);}
-	.st72{fill:url(#SVGID_58_);}
-	.st73{fill:url(#SVGID_59_);}
-	.st74{fill:url(#SVGID_60_);}
-	.st75{fill:url(#SVGID_61_);}
-	.st76{fill:url(#SVGID_62_);}
-	.st77{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
-	.st78{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st79{fill:#4BC9FF;}
-	.st80{fill:#5500DD;}
-	.st81{fill:#FF3A00;}
-	.st82{fill:#E6162D;}
-	.st83{fill:#F1F1F1;}
-	.st84{fill:#FF9933;}
-	.st85{fill:#B92B27;}
-	.st86{fill:#00ACED;}
-	.st87{fill:#BD2125;}
-	.st88{fill:#1877F2;}
-	.st89{fill:#6665D2;}
-	.st90{fill:#CE3056;}
-	.st91{fill:#5BB381;}
-	.st92{fill:#61C3EC;}
-	.st93{fill:#E4B34B;}
-	.st94{fill:#181EF2;}
-	.st95{fill:#FF0000;}
-	.st96{fill:#FE466C;}
-	.st97{fill:#FA4778;}
-	.st98{fill:#FF7700;}
-	.st99{fill-rule:evenodd;clip-rule:evenodd;fill:#1F6BF6;}
-	.st100{fill:#520094;}
-	.st101{fill:#4477E8;}
-	.st102{fill:#3D1D1C;}
-	.st103{fill:#FFE812;}
-	.st104{fill:#344356;}
-	.st105{fill:#00CC76;}
-	.st106{fill-rule:evenodd;clip-rule:evenodd;fill:#345E90;}
-	.st107{fill:#1F65D8;}
-	.st108{fill:#EB3587;}
-	.st109{fill-rule:evenodd;clip-rule:evenodd;fill:#603A88;}
-	.st110{fill:#E3CE99;}
-	.st111{fill:#783AF9;}
-	.st112{fill:#FF515E;}
-	.st113{fill:#FF4906;}
-	.st114{fill:#503227;}
-	.st115{fill:#4C7BD9;}
-	.st116{fill:#69C9D0;}
-	.st117{fill:#1B92D1;}
-	.st118{fill:#EB4F4A;}
-	.st119{fill:#513728;}
-	.st120{fill:#FF6600;}
-	.st121{fill-rule:evenodd;clip-rule:evenodd;fill:#B61438;}
-	.st122{fill:#FFFC00;}
-	.st123{fill:#141414;}
-	.st124{fill:#94D137;}
-	.st125{fill-rule:evenodd;clip-rule:evenodd;fill:#F1F1F1;}
-	.st126{fill-rule:evenodd;clip-rule:evenodd;fill:#66E066;}
-	.st127{fill:#2D8CFF;}
-	.st128{fill:#F1A300;}
-	.st129{fill:#4BA2F2;}
-	.st130{fill:#1A5099;}
-	.st131{fill:#EE6060;}
-	.st132{fill-rule:evenodd;clip-rule:evenodd;fill:#F48120;}
-	.st133{fill:#222222;}
-	.st134{fill:url(#SVGID_63_);}
-	.st135{fill:#0077B5;}
-	.st136{fill:#FFCC00;}
-	.st137{fill:#EB3352;}
-	.st138{fill:#F9D265;}
-	.st139{fill:#F5B955;}
-	.st140{fill:#DD2A7B;}
-	.st141{fill:#66E066;}
-	.st142{fill:#EB4E00;}
-	.st143{fill:#FFC794;}
-	.st144{fill:#B5332A;}
-	.st145{fill:#4E85EB;}
-	.st146{fill:#58A45C;}
-	.st147{fill:#F2BC42;}
-	.st148{fill:#D85040;}
-	.st149{fill:#464EB8;}
-	.st150{fill:#7B83EB;}
-</style><g id="Layer_1"/><g id="Layer_2"><g><path class="st135" d="M90.479,2.513c-14.611-0.041-68.502,0.028-80.958,0C5.645,2.513,2.5,5.562,2.5,9.317v81.381    c0,3.756,3.145,6.802,7.021,6.802h80.958c3.878,0,7.021-3.046,7.021-6.803V9.317C97.5,5.562,94.357,2.513,90.479,2.513z"/><g><path class="st83" d="M53.453,82.005c0,0,0-23.878,0-23.879c-0.139-4.388,2.484-8.483,7.762-8.667     c5.143,0,7.201,3.921,7.201,9.67v22.875h14.214V57.485c0-13.135-7.012-19.247-16.365-19.247c-7.668,0-11.036,4.285-12.907,7.204     l0.095-6.2H39.239c0.185,4.012-0.001,42.763-0.001,42.763L53.453,82.005z"/><path class="st83" d="M31.37,63.461v-24.22H17.154v42.763h14.217C31.368,77.514,31.376,67.888,31.37,63.461z"/><path class="st83" d="M24.265,33.404c4.956,0,8.042-3.284,8.042-7.387c-0.041-9.897-16.004-9.787-15.991-0.001     C16.305,30.151,19.476,33.455,24.265,33.404z"/></g></g></g></svg>'
+  icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="20" height="20" viewBox="0 0 310 310" style="enable-background:new 0 0 310 310;" xml:space="preserve">
+<g id="XMLID_801_">
+	<path id="XMLID_802_" d="M72.16,99.73H9.927c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5H72.16c2.762,0,5-2.238,5-5V104.73   C77.16,101.969,74.922,99.73,72.16,99.73z"/>
+	<path id="XMLID_803_" d="M41.066,0.341C18.422,0.341,0,18.743,0,41.362C0,63.991,18.422,82.4,41.066,82.4   c22.626,0,41.033-18.41,41.033-41.038C82.1,18.743,63.692,0.341,41.066,0.341z"/>
+	<path id="XMLID_804_" d="M230.454,94.761c-24.995,0-43.472,10.745-54.679,22.954V104.73c0-2.761-2.238-5-5-5h-59.599   c-2.762,0-5,2.239-5,5v199.928c0,2.762,2.238,5,5,5h62.097c2.762,0,5-2.238,5-5v-98.918c0-33.333,9.054-46.319,32.29-46.319   c25.306,0,27.317,20.818,27.317,48.034v97.204c0,2.762,2.238,5,5,5H305c2.762,0,5-2.238,5-5V194.995   C310,145.43,300.549,94.761,230.454,94.761z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>'
 
 telegram:
   name: Telegram
@@ -201,7 +83,43 @@ hackerrank:
 instagram:
   name: Instagram
   profile_url_prefix: https://www.instagram.com/
-  icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="20" height="20"><radialGradient id="yOrnnhliCrdS2gy~4tD8ma" cx="19.38" cy="42.035" r="44.899" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fd5"/><stop offset=".328" stop-color="#ff543f"/><stop offset=".348" stop-color="#fc5245"/><stop offset=".504" stop-color="#e64771"/><stop offset=".643" stop-color="#d53e91"/><stop offset=".761" stop-color="#cc39a4"/><stop offset=".841" stop-color="#c837ab"/></radialGradient><path fill="url(#yOrnnhliCrdS2gy~4tD8ma)" d="M34.017,41.99l-20,0.019c-4.4,0.004-8.003-3.592-8.008-7.992l-0.019-20 c-0.004-4.4,3.592-8.003,7.992-8.008l20-0.019c4.4-0.004,8.003,3.592,8.008,7.992l0.019,20 C42.014,38.383,38.417,41.986,34.017,41.99z"/><radialGradient id="yOrnnhliCrdS2gy~4tD8mb" cx="11.786" cy="5.54" r="29.813" gradientTransform="matrix(1 0 0 .6663 0 1.849)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#4168c9"/><stop offset=".999" stop-color="#4168c9" stop-opacity="0"/></radialGradient><path fill="url(#yOrnnhliCrdS2gy~4tD8mb)" d="M34.017,41.99l-20,0.019c-4.4,0.004-8.003-3.592-8.008-7.992l-0.019-20 c-0.004-4.4,3.592-8.003,7.992-8.008l20-0.019c4.4-0.004,8.003,3.592,8.008,7.992l0.019,20 C42.014,38.383,38.417,41.986,34.017,41.99z"/><path fill="#fff" d="M24,31c-3.859,0-7-3.14-7-7s3.141-7,7-7s7,3.14,7,7S27.859,31,24,31z M24,19c-2.757,0-5,2.243-5,5 s2.243,5,5,5s5-2.243,5-5S26.757,19,24,19z"/><circle cx="31.5" cy="16.5" r="1.5" fill="#fff"/><path fill="#fff" d="M30,37H18c-3.859,0-7-3.14-7-7V18c0-3.86,3.141-7,7-7h12c3.859,0,7,3.14,7,7v12 C37,33.86,33.859,37,30,37z M18,13c-2.757,0-5,2.243-5,5v12c0,2.757,2.243,5,5,5h12c2.757,0,5-2.243,5-5V18c0-2.757-2.243-5-5-5H18z"/></svg>'
+  icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="20" height="20" viewBox="0 0 169.063 169.063" style="enable-background:new 0 0 169.063 169.063;" xml:space="preserve">
+<g>
+	<path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752   c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407   c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752   c17.455,0,31.656,14.201,31.656,31.655V122.407z"/>
+	<path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561   C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561   c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"/>
+	<path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78   c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78   C135.661,29.421,132.821,28.251,129.921,28.251z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>'
 
 keybase:
   name: Keybase
