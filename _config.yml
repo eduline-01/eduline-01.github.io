@@ -48,13 +48,18 @@ social_media:
   # youtube: your_username
 
 topics:
+  - name: Coursework
+    web_url: https://eduline-01.github.io/coursework
+    image_url: https://cdn.startschoolnow.org/wp-content/uploads/Academic-coursework.jpg
+    
+  - name: Projects
+    web_url: https://eduline-01.github.io/my-projects
+    image_url: https://scientificwritingtips.files.wordpress.com/2015/05/writingtips-12.jpg
+  
   - name: Curriculum Vitae
     web_url: https://drive.google.com/file/d/1cMKkA7HXqHeNS9AN0Z1V3jnTU_NLRcyg/view?usp=sharing
     image_url: https://i.pinimg.com/originals/c0/36/22/c0362268e010cd321204de0fe25cb8c0.jpg
-
-  - name: Coursework
-    image_url: https://cdn.startschoolnow.org/wp-content/uploads/Academic-coursework.jpg
     
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png     
+  - name: Random Thoughts
+    web_url: https://eduline-01.github.io/random-thoughts
+    image_url: https://d30womf5coomej.cloudfront.net/sa/ac/af9dd395-46d0-4421-bf4f-d0f21f43e2e0_z.png
