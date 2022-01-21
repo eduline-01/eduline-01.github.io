@@ -29,26 +29,26 @@ projects:
     # - repo-name
 
 social_media:
+  website: https://eduline-01.github.io/
+  linkedin: sanketbiswas01
+  telegram: eduline_01
+  discord: 612119361037008906
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   instagram: sanket_biswas01
   # keybase: your_username
-  linkedin: sanketbiswas01
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
-  telegram: eduline_01
-  discord: 612119361037008906
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  website: https://eduline-01.github.io/
   # youtube: your_username
 
 topics:
-  - name: CV
+  - name: Curriculum Vitae
     web_url: https://drive.google.com/file/d/1cMKkA7HXqHeNS9AN0Z1V3jnTU_NLRcyg/view?usp=sharing
     image_url: https://i.pinimg.com/originals/c0/36/22/c0362268e010cd321204de0fe25cb8c0.jpg
 
