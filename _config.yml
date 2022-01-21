@@ -15,6 +15,18 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      
+topics:
+  - name: Curriculum Vitae
+    web_url: https://drive.google.com/file/d/1cMKkA7HXqHeNS9AN0Z1V3jnTU_NLRcyg/view?usp=sharing
+    image_url: https://i.pinimg.com/originals/c0/36/22/c0362268e010cd321204de0fe25cb8c0.jpg
+
+  - name: Coursework
+    image_url: https://cdn.startschoolnow.org/wp-content/uploads/Academic-coursework.jpg
+    
+  - name: Sass
+    web_url: https://github.com/topics/sass
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png     
 
 projects:
   sort_by: pushed
@@ -46,15 +58,3 @@ social_media:
   # unsplash: your_username
   # vk: your_username
   # youtube: your_username
-
-topics:
-  - name: Curriculum Vitae
-    web_url: https://drive.google.com/file/d/1cMKkA7HXqHeNS9AN0Z1V3jnTU_NLRcyg/view?usp=sharing
-    image_url: https://i.pinimg.com/originals/c0/36/22/c0362268e010cd321204de0fe25cb8c0.jpg
-
-  - name: Coursework
-    image_url: https://cdn.startschoolnow.org/wp-content/uploads/Academic-coursework.jpg
-    
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
