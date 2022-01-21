@@ -27,13 +27,16 @@
         <a href="mailto:{{ user.email }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
           {{ user.email }}
         </a>
+        <a href="mailto:1940108@sliet.ac.in" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+          1940108@sliet.ac.in
+        </a>
       </div>
     {% endif %}
     
     {% if user.email %}
       <div class="{{ metadata_styles }}">
         {% octicon mail height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:email %}
-        <a href="mailto:{ 1940108@sliet.ac.in }" {% if site.style == 'dark' %}class="text-white"{% endif %}>
+        <a href="mailto:1940108@sliet.ac.in" {% if site.style == 'dark' %}class="text-white"{% endif %}>
           1940108@sliet.ac.in
         </a>
       </div>
