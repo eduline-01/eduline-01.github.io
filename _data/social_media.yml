@@ -6,7 +6,7 @@ linkedin:
   name: LinkedIn
   profile_url_prefix: https://www.linkedin.com/in/
   share_url_prefix: https://www.linkedin.com/shareArticle?mini=true&url=
-  icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" version="1.1" xml:space="preserve"><style type="text/css">
+  icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" version="1.1" xml:space="preserve"><style type="text/css">
 	.st0{fill:#FFFFFF;}
 	.st1{fill:#F5BB41;}
 	.st2{fill:#2167D1;}
