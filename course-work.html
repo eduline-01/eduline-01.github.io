@@ -48,28 +48,53 @@ div {
 </head>
 <body>
 
-<h2>Collapsibles</h2>
-
-<p>A Collapsible:</p>
-<button type="button" class="collapsible">Open Collapsible</button>
+<div class="markdown-body">
+ <div id = "section">
+   <h1 {% if site.style == 'dark' %}class="text-white"{% endif %}>Coursework</h1>
+<button type="button" class="collapsible"><b>Semester-I (Aug-Dec '19)</b></button>
 <div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <ol type = "1">
+    <li>Engineering Mathematics-I</li>
+    <li>Applied Chemistry</li>
+    <li>Elements of Mechanical Engineering</li>
+    <li>Workshop Technology and Practice</li>
+    <li>English Communication and Soft Skills</li>
+    <li>Applied Chemistry Laboratory</li>
+    <li>Elements of Mechanical Engineering Laboratory</li>
+    <li>Engineering Drawing</li>
+    <li>Workshop Technology and Practice Laboratory</li>
+    <li>English Communication and Soft Skills Laboratory</li>
+    <li>Environmental Studies</li>
+  </ol>
 </div>
-
-<p>Collapsible Set:</p>
-<button type="button" class="collapsible">Open Section 1</button>
+<button type="button" class="collapsible"><b>Semester-II (Jan-May '20)</b></button>
 <div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <ol type = "1">
+    <li>Engineering Mathematics-II</li>
+    <li>Applied Physics</li>
+    <li>Elements of Electrical Engineering</li>
+    <li>Elements of Computer Science and Engineering</li>
+    <li>Elements of Electronics Engineering</li>
+    <li>Applied Physics Laboratory</li>
+    <li>Elements of Electrical Engineering Laboratory</li>
+    <li>Elements of Computer Science and Engineering Laboratory</li>
+    <li>Elements of Electronics Engineering Laboratory</li>
+  </ol>
 </div>
-<button type="button" class="collapsible">Open Section 2</button>
+<button type="button" class="collapsible"><b>Semester-III (Aug-Dec '20)</b></button>
 <div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <ol type = "1">
+    <li>Engineering Mechanics</li>
+    <li>Material and Energy Balance</li>
+    <li>Fluid Mechanics</li>
+    <li>Chemical Engineering Thermodynamics</li>
+    <li>Principles of Management</li>
+    <li>Fluid Mechanics Laboratory</li>
+    <li>Process Technology Laboratory</li>
+    <li>Indian Constitution (non-credit course)</li>
+  </ol>
 </div>
-<button type="button" class="collapsible">Open Section 3</button>
-<div class="content">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-</div>
-
+	</div>
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
